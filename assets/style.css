@@ -18,9 +18,9 @@ body {
 }
 
 .profile-pic {
-    width: 100px;
-    height: 100px;
-    background-color: #ccc;
+    width: 200px;
+    height: 200px;
+    background-color: #9b7979;
     border-radius: 50%;
     margin: 0 auto 20px;
 }
@@ -35,7 +35,7 @@ body {
     padding: 10px 10px 10px 35px;
     border: none;
     border-radius: 25px;
-    background-color: #eee;
+    background-color: #7e5e5e;
     text-align: left;
     font-size: 14px;
 }
